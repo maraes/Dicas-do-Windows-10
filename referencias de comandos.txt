@@ -1,1 +1,5 @@
 https://docs.microsoft.com/pt-br/windows/uwp/launch-resume/launch-settings-app
+
+
+== Caminho no regedit onde realizamos a configuração conforme demonstrado no vídeo ==
+HKEY_CURRENT_USER\Software\Classes\DesktopBackground
